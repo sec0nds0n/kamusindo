@@ -21,5 +21,5 @@ def terjemahkan(kata):
         return "Kata tidak ditemukan"
     
 
-kata = input("Masukkan kata (Bahasa Indonesia): ")
+kata = input("Masukkan kata: ")
 print(terjemahkan(kata))
